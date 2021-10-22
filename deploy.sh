@@ -1,0 +1,1 @@
+scp pumpkin.py pi@raspberrypi.local:.
